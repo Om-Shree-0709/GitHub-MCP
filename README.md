@@ -1,6 +1,6 @@
 # Model Context Protocol (MCP) Server for GitHub Integration
 
-A professional Node.js/Express server for the Model Context Protocol (MCP), designed to bridge VS Code and GitHub using Docker. This project is part of a complete workflow for connecting your GitHub account to VS Code securely and efficiently.
+A simple Node.js/Express server for the Model Context Protocol (MCP), designed to bridge VS Code and GitHub using Docker. This project is part of a complete workflow for connecting your GitHub account to VS Code securely and efficiently.
 
 ---
 
@@ -18,8 +18,6 @@ A professional Node.js/Express server for the Model Context Protocol (MCP), desi
 For a complete, step-by-step guide (with screenshots and troubleshooting), see the accompanying article:
 
 > **How to Connect GitHub to VS Code Using Docker MCP Server**
-
-- [ ] _Add screenshots for each section as you follow the guide_
 
 ---
 
